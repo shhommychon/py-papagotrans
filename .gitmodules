@@ -10,3 +10,6 @@
 [submodule "references/krtk-dev-translators"]
 	path = references/krtk-dev-translators
 	url = https://github.com/krtk-dev/translators.git
+[submodule "references/Klypse-PentaGo"]
+	path = references/Klypse-PentaGo
+	url = https://github.com/Klypse/PentaGo.git

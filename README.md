@@ -55,6 +55,7 @@ git submodule add https://github.com/stunstunstun/papago.git references/stunstun
 git submodule add https://github.com/todayears/papagotrans.git references/todayears-papagotrans
 git submodule add https://github.com/Beomi/pypapago.git references/Beomi-pypapago
 git submodule add https://github.com/krtk-dev/translators.git references/krtk-dev-translators
+git submodule add https://github.com/Klypse/PentaGo.git references/Klypse-PentaGo
 git submodule update --init --recursive
 GIT_COMMITTER_DATE="2026-06-03T06:00:00" git commit -m "Merge commit db0567f from community/main" --date="2026-06-03T06:00:00"
 ```

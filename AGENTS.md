@@ -77,6 +77,11 @@ These repositories are included in the current repository as Git submodules unde
   * Last commit: May 4, 2024, 10:31 PM GMT+9
   * React-based comparison page for Google, Papago, and Kakao translation results.
   * Useful as a reference for studying how Papago translation requests are obtained and compared in a browser-based application.
+* `Klypse/PentaGo`
+  * Last commit: Jul 4, 2025, 11:17 PM GMT+9
+  * Unofficial Python Papago API/library using reverse-engineered web endpoints.
+  * Uses the `pentago` package name on PyPI (`pip install pentago`).
+  * More recent than the other Papago Python package references, and useful for studying current async request handling, language support, pronunciation fields, honorific handling, and dynamic request-header/key regeneration behavior.
 
 ## Safety and Service Respect
 
