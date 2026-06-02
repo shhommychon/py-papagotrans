@@ -1,0 +1,12 @@
+[submodule "references/stunstunstun-papago"]
+	path = references/stunstunstun-papago
+	url = https://github.com/stunstunstun/papago.git
+[submodule "references/todayears-papagotrans"]
+	path = references/todayears-papagotrans
+	url = https://github.com/todayears/papagotrans.git
+[submodule "references/Beomi-pypapago"]
+	path = references/Beomi-pypapago
+	url = https://github.com/Beomi/pypapago.git
+[submodule "references/krtk-dev-translators"]
+	path = references/krtk-dev-translators
+	url = https://github.com/krtk-dev/translators.git
